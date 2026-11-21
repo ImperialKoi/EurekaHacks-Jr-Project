@@ -1,0 +1,151 @@
+{
+  "sheets": {
+    "seal": {
+      "file": "seal.png",
+      "fw": 32,
+      "fh": 24,
+      "cols": 6,
+      "frames": 6
+    },
+    "boat": {
+      "file": "boat.png",
+      "fw": 46,
+      "fh": 36,
+      "cols": 7,
+      "frames": 7
+    },
+    "fish": {
+      "file": "fish.png",
+      "fw": 14,
+      "fh": 10,
+      "cols": 6,
+      "frames": 6
+    },
+    "icons": {
+      "file": "icons.png",
+      "fw": 10,
+      "fh": 10,
+      "cols": 10,
+      "frames": 10
+    },
+    "boom": {
+      "file": "boom.png",
+      "fw": 36,
+      "fh": 36,
+      "cols": 4,
+      "frames": 4
+    },
+    "orca": {
+      "file": "orca.png",
+      "fw": 76,
+      "fh": 40,
+      "cols": 4,
+      "frames": 4
+    },
+    "debris": {
+      "file": "debris.png",
+      "fw": 26,
+      "fh": 22,
+      "cols": 3,
+      "frames": 3
+    },
+    "shard": {
+      "file": "shard.png",
+      "fw": 20,
+      "fh": 20,
+      "cols": 3,
+      "frames": 3
+    }
+  },
+  "font": {
+    "file": "font.png",
+    "cw": 6,
+    "ch": 8,
+    "cols": 16,
+    "chars": " ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:!?'-+/()<>%*#"
+  },
+  "backgrounds": [
+    "bg1.png",
+    "bg2.png",
+    "bg3.png",
+    "bg4.png",
+    "bg5.png"
+  ],
+  "floes": [
+    {
+      "file": "floe0.png",
+      "w": 124,
+      "h": 44,
+      "level": 0,
+      "waterline": 0.55
+    },
+    {
+      "file": "floe1.png",
+      "w": 124,
+      "h": 44,
+      "level": 0,
+      "waterline": 0.55
+    },
+    {
+      "file": "floe2.png",
+      "w": 100,
+      "h": 36,
+      "level": 1,
+      "waterline": 0.55
+    },
+    {
+      "file": "floe3.png",
+      "w": 100,
+      "h": 36,
+      "level": 1,
+      "waterline": 0.55
+    },
+    {
+      "file": "floe4.png",
+      "w": 78,
+      "h": 30,
+      "level": 2,
+      "waterline": 0.55
+    },
+    {
+      "file": "floe5.png",
+      "w": 78,
+      "h": 30,
+      "level": 2,
+      "waterline": 0.55
+    },
+    {
+      "file": "floe6.png",
+      "w": 58,
+      "h": 24,
+      "level": 3,
+      "waterline": 0.55
+    },
+    {
+      "file": "floe7.png",
+      "w": 58,
+      "h": 24,
+      "level": 3,
+      "waterline": 0.55
+    },
+    {
+      "file": "floe8.png",
+      "w": 40,
+      "h": 18,
+      "level": 4,
+      "waterline": 0.55
+    },
+    {
+      "file": "floe9.png",
+      "w": 40,
+      "h": 18,
+      "level": 4,
+      "waterline": 0.55
+    }
+  ],
+  "surface": 100,
+  "world": {
+    "w": 960,
+    "h": 270
+  }
+}
